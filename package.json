@@ -1,0 +1,23 @@
+{
+  "name": "bonus-project-on-employees",
+  "version": "1.0.0",
+  "description": "Bonus project on employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-Singh-Chouhan/Bonus-Project-on-Employees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-Singh-Chouhan/Bonus-Project-on-Employees/issues"
+  },
+  "homepage": "https://github.com/Chetan-Singh-Chouhan/Bonus-Project-on-Employees#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
