@@ -1,8 +1,7 @@
 const employeeModel = require("../models/employeeModel")
+const courseModel = require("../models/courseModel")
 const validation = require("../validation/validation")
 const jwt = require('jsonwebtoken')
-const mongoose = require('mongoose')
-
 
 const createEmployee = async (req, res) => {
     try {
